@@ -1,1 +1,1 @@
-## Hypestyle with (vite)[https://vitejs.dev]
+## Hypestyle with [vite](https://vitejs.dev)
